@@ -8,7 +8,7 @@ import Diet from '/src/utils/Diet'
 import DietList from '/src/data/DietList.js';
 
 import Delivery from "../Delivery/Delivery";
-import FAQ from "../FAQ/FAQ";
+import FAQ from "../Faq/FAQ";
 
 
 import Testimonial from './Testimonail';
