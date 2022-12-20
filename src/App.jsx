@@ -15,7 +15,7 @@ import Calories from './pages/Calories/Calories';
 import Menu from './pages/Menu/Menu';
 import Delivery from './pages/Delivery/Delivery';
 import About from './pages/About/About'
-import FAQ from './pages/FAQ/FAQ';
+import FAQ from './pages/Faq/FAQ';
 
 function App() {
   return (
