@@ -47,7 +47,7 @@ function Calories(){
             </div>
 
             <div className="desc">
-              <h2>Total motabolise (TMR) calcolator</h2>
+              <h2>Total motabolise (BMR) calcolator</h2>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, voluptas. Aliquid neque itaque fugit ducimus voluptatem sequi adipisci.
               </p>
