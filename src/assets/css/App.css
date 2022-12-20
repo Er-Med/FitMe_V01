@@ -1,0 +1,5 @@
+.cards{
+  display: flex;
+  gap: 2rem;
+  text-align: center;
+}

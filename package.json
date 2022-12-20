@@ -1,0 +1,27 @@
+{
+  "name": "project2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "classnames": "^2.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.3",
+    "swup": "^2.0.19"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@vitejs/plugin-react": "^2.2.0",
+    "css-loader": "^6.7.2",
+    "gh-pages": "^4.0.0",
+    "style-loader": "^3.3.1",
+    "vite": "^3.2.3"
+  }
+}
